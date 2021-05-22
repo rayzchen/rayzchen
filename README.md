@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **tankimarshal2@gmail.com**
 
-- - ⚡ Fun fact: I started Python at the age of **6**!
+- ⚡ Fun fact: I started Python at the age of **6**!
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayzchen&show_icons=true&locale=en&layout=compact" alt="rayzchen" /></p>
 
