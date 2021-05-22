@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Ommar Shaikh</h1>
+<h1 align="center">Hi 👋, I'm Ray Chen</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rayzchen" alt="rayzchen" /></a> </p>
 
 - 🌱 I’m currently learning **Python, C++, HTML, Unity**
